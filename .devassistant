@@ -1,0 +1,4 @@
+devassistant_version: 0.2.2
+subassistant_path:
+- python
+- django
